@@ -1,3 +1,4 @@
+package src;
 public class Plate {
 
     private int food = 10;

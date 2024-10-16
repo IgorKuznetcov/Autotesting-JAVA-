@@ -1,3 +1,4 @@
+package src;
 public class Geom {
     public String backgroundColor;
     public String borderColor;

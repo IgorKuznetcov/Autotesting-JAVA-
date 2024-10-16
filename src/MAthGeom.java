@@ -1,3 +1,4 @@
+package src;
 public interface MAthGeom {
     default int getSquareTriangle(int a, int b, int c){
         return a + b + c;

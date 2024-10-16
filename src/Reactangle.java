@@ -1,3 +1,4 @@
+package src;
 public class Reactangle extends Geom implements MAthGeom{
 
     @Override

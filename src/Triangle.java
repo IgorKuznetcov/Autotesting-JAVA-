@@ -1,3 +1,4 @@
+package src;
 public class Triangle extends Geom implements MAthGeom{
 
     @Override

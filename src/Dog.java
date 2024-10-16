@@ -1,3 +1,4 @@
+package src;
 public class Dog extends Animal {
 
     public static int countOfObjects = 0;

@@ -1,3 +1,4 @@
+package src;
 public class feedCats {
     private static int TIME = 0;
 
